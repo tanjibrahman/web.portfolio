@@ -29,7 +29,7 @@ section{
 }
 .hear-me{
     text-decoration: none;
-    background-image: linear-gradient(45deg,#eff3b2,#b3c41b);
+    background-image: linear-gradient(45deg,#76b8ee,#7b17b4);
     padding: 7px 15px;
     color: white;
     border-radius: 5px;
@@ -49,6 +49,9 @@ section{
     background-image:url(images/exp-bg.png);
     background-position: left;
     background-repeat: no-repeat;
+}
+#uniq{
+    color:  red;
 }
 #full-stok{
     border-left: 7px solid;
